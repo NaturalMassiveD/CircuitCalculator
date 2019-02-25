@@ -1,0 +1,13 @@
+C:\Users\teel6\AppData\Local\Temporary Projects\Lab5_DanielTeel\bin\Debug\Lab5_DanielTeel.exe.config
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\bin\Debug\Lab5_DanielTeel.exe.config
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\bin\Debug\Lab5_DanielTeel.exe
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\bin\Debug\Lab5_DanielTeel.pdb
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\bin\Debug\Lab5_DanielTeel.xml
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\obj\Debug\Lab5_DanielTeel.Form1.resources
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\obj\Debug\Lab5_DanielTeel.Resources.resources
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\obj\Debug\Lab5_DanielTeel.vbproj.GenerateResource.Cache
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\obj\Debug\Lab5_DanielTeel.exe
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\obj\Debug\Lab5_DanielTeel.xml
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\obj\Debug\Lab5_DanielTeel.pdb
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\obj\Debug\Lab5_DanielTeel.vbprojAssemblyReference.cache
+C:\Users\teel6\Documents\Visual Studio 2015\Projects\Lab5_DanielTeel\Lab5_DanielTeel\obj\Debug\Lab5_DanielTeel.vbproj.CoreCompileInputs.cache
